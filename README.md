@@ -23,4 +23,4 @@ Lastest section text
 
 ### branch footer
 
-### yet another example
+### yet another example:
