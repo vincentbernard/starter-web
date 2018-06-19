@@ -1,4 +1,5 @@
 # Git course test website
+This is the introduction section
 
 This repository is for showing how Git and GitHub work
 
