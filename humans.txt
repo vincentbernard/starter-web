@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    vincent bernard vin.bernard@gmail.com
 # THANKS
 
     <name>
